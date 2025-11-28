@@ -238,7 +238,8 @@ This project can serve as a baseline for your ASL learning website or other sign
 - Mobile app integration
 
 ## License
-This project is open-source and distributed under the MIT License.
+
+This project is open source and available under the [MIT License](LICENSE).
 
 
 ## Contributing
